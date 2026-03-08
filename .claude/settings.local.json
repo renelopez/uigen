@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright",
+      "Bash(npx vitest:*)",
+      "Bash(claude mcp:*)",
+      "Bash(curl:*)",
+      "Bash(grep:*)",
+      "Bash(npm audit:*)",
+      "Bash(git config:*)"
+    ]
+  }
+}
